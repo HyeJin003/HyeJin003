@@ -2,7 +2,7 @@
 **커밋 하나로 세상을 흔드는 사람 🌍✨**
 
 
-### 🔧 I'mcurrently learning
+### 🔧 I'm currently learning
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
