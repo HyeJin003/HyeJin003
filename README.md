@@ -5,7 +5,7 @@
 ### 🔧 I'mcurrently learning
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![html](https://img.shields.io/badge/html5-23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <!--
 **HyeJin003/HyeJin003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
